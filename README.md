@@ -1,5 +1,10 @@
 ### Hi there 👋 Welcom to my HomePage I'm KaneYin
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 - 🔭 I’m currently still studying in University
 - 🌱 I’m currently learning BackEnd including JavaWeb and .NET
 - 📫 How to reach me: yinkunq@gmail.com
