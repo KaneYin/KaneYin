@@ -18,11 +18,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KaneYin/count.svg)
 [![KaneYin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneYin&bg_color=white&color=black)](https://github.com/KaneYin/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 353.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 51 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,6 +82,6 @@ Java                     1 repo              ███████████�
 
 
 
- Last Updated on 11/05/2024 12:48:12 UTC
+ Last Updated on 11/05/2024 18:35:53 UTC
 <!--END_SECTION:waka-->
 
