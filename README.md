@@ -18,7 +18,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KaneYin/count.svg)
 [![KaneYin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneYin&bg_color=white&color=black)](https://github.com/KaneYin/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue)
 
@@ -61,16 +61,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 41 mins        █████████████████████████   100.00 % 
+Java                     1 hr 41 mins        ███████████████████████░░   93.94 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-Intellijidea             1 hr 41 mins        █████████████████████████   100.00 % 
+Intellijidea             1 hr 41 mins        ███████████████████████░░   93.94 % 
+Obsidian                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🐱‍💻 Projects: 
-Code                     1 hr 41 mins        █████████████████████████   100.00 % 
+Code                     1 hr 41 mins        ███████████████████████░░   93.94 % 
+Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -82,6 +85,6 @@ Java                     1 repo              ███████████�
 
 
 
- Last Updated on 11/05/2024 18:35:53 UTC
+ Last Updated on 12/05/2024 18:36:52 UTC
 <!--END_SECTION:waka-->
 
