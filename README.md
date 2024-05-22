@@ -20,11 +20,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KaneYin/count.svg)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 353.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 51 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,6 +91,6 @@ Java                     1 repo              ███████████�
 
 
 
- Last Updated on 21/05/2024 18:37:48 UTC
+ Last Updated on 22/05/2024 18:38:15 UTC
 <!--END_SECTION:waka-->
 
