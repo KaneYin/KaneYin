@@ -26,6 +26,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KaneYin/count.svg)
 
 > 📦 363.0 kB Used in GitHub's Storage 
  > 
+> 🏆 54 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -88,6 +90,6 @@ Java                     1 repo              ███████████�
 
 
 
- Last Updated on 13/06/2024 18:39:50 UTC
+ Last Updated on 14/06/2024 18:39:36 UTC
 <!--END_SECTION:waka-->
 
