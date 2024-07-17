@@ -18,7 +18,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KaneYin/count.svg)
 [![KaneYin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneYin&bg_color=white&color=black)](https://github.com/KaneYin/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,18 +59,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     57 mins             ██████████████████░░░░░░░   70.18 % 
-C                        24 mins             ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+HTML                     3 hrs 9 mins        ████████████████████████░   95.71 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Code                     1 hr 22 mins        █████████████████████████   100.00 % 
+Code                     3 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -82,6 +82,6 @@ HTML                     1 repo              ███████████�
 
 
 
- Last Updated on 16/07/2024 18:39:52 UTC
+ Last Updated on 17/07/2024 18:40:37 UTC
 <!--END_SECTION:waka-->
 
