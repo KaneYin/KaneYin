@@ -18,15 +18,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KaneYin/count.svg)
 [![KaneYin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneYin&bg_color=white&color=black)](https://github.com/KaneYin/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 391.7 kB Used in GitHub's Storage 
- > 
-> 🏆 57 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,45 +30,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KaneYin/count.svg)
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-🌆 Daytime                23 commits          █████████░░░░░░░░░░░░░░░░   37.70 % 
-🌃 Evening                31 commits          █████████████░░░░░░░░░░░░   50.82 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Tuesday                  23 commits          █████████░░░░░░░░░░░░░░░░   37.70 % 
-Wednesday                16 commits          ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 9 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-HTML                     2 hrs 12 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Code                     2 hrs 12 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -82,6 +39,6 @@ HTML                     1 repo              ███████████�
 
 
 
- Last Updated on 23/07/2024 18:39:12 UTC
+ Last Updated on 24/07/2024 18:41:50 UTC
 <!--END_SECTION:waka-->
 
