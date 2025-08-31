@@ -20,16 +20,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KaneYin/count.svg)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
 
-> 📦 391.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -49,35 +40,4 @@ Friday                   8 commits           ███░░░░░░░░�
 Saturday                 9 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     1 repo              █████████████████████████   100.00 % 
-```
-
-
-
-
- Last Updated on 08/08/2024 18:41:47 UTC
-<!--END_SECTION:waka-->
 
