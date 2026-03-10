@@ -7,37 +7,4 @@
 - 📫 How to reach me: yinkunq@gmail.com
 
 
-[![KaneYin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneYin&show_icon=true&anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneYin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/KaneYin/count.svg) visitors, Thank you!😘😘:)
-
-[![KaneYin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneYin&bg_color=white&color=black)](https://github.com/KaneYin/github-readme-activity-graph)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2052%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-🌆 Daytime                23 commits          █████████░░░░░░░░░░░░░░░░   37.70 % 
-🌃 Evening                31 commits          █████████████░░░░░░░░░░░░   50.82 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Tuesday                  23 commits          █████████░░░░░░░░░░░░░░░░   37.70 % 
-Wednesday                16 commits          ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 9 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
 
