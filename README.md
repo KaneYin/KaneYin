@@ -4,7 +4,7 @@
 
 -# Hi 👋, I'm Yinkun Qu
 
-- 🔭 I'm currently working on **CERCA, a Citation Extraction & Reference Checking Assistant open-source project**
+- 🔭 I'm currently working on Architecture & Backend Design | Next: PyTorch validation pipeline
 
 - 🌱 I'm currently learning **JavaScript; Node.js; JUnit; PyTorch; Redis**
 
