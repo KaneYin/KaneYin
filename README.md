@@ -1,26 +1,138 @@
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" width="300">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="260" alt="Developer coding animation" />
 
--# Hi 👋, I'm Yinkun Qu
+# Hi, I'm Yinkun Qu 👋
 
-- 🔭 I'm currently working on Architecture & Backend Design | Next: PyTorch validation pipeline
+### Software Engineer · AI Agent Developer · Computer Architecture Researcher
 
-- 🌱 I'm currently learning **JavaScript; Node.js; JUnit; PyTorch; Redis**
+Graduate student in Computer Engineering at the University of Illinois Chicago,  
+building reliable backend systems, AI applications, and performance-oriented software.
 
-- 👯 I'm looking to collaborate on **open source projects.**
+<p>
+  <a href="https://github.com/KaneYin">
+    <img src="https://img.shields.io/github/followers/KaneYin?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/yinkun/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yinkun%20Qu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yinkunq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yinkunq%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://kaneyin.github.io/blog/">
+    <img src="https://img.shields.io/badge/Blog-KaneYin.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Technical blog" />
+  </a>
+</p>
 
-- 💬 Ask me about **Java, Web Development, Computer Architecture and Neural Networks.**
+</div>
 
-- 📫 How to reach me **yinkunq@gmail.com**
+---
 
-- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/yinkun/](https://www.linkedin.com/in/yinkun/)**
+## About Me
 
-- 📝 I regularly write articles on **[https://kaneyin.github.io/blog/](https://kaneyin.github.io/blog/)**
+- 🔭 Currently working on **computer architecture research and backend system design**
+- 🤖 Building **AI agents, RAG systems, and tool-enabled workflows**
+- 🧪 Improving software reliability through **unit testing and validation pipelines**
+- 🔬 Exploring **memory systems, prefetching, scheduling, and gem5 simulation**
+- 🌱 Currently strengthening my skills in **PyTorch, microservices, and open-source maintenance**
+- 🤝 Open to collaborating on **backend, AI infrastructure, developer tooling, and systems projects**
+- 💬 Ask me about **Java, Python, backend engineering, computer architecture, or neural networks**
 
+---
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/KaneYin/svg?view=3d)](https://tokscale.ai/u/KaneYin)
+## Technical Focus
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### Backend & Infrastructure
+
+- Java and Spring Boot
+- Python and FastAPI
+- RESTful API design
+- PostgreSQL, MySQL, and Redis
+- Docker, Nginx, and AWS
+- Unit and integration testing
+
+</td>
+<td width="50%" valign="top">
+
+### AI & Systems
+
+- AI agents and RAG pipelines
+- LangChain and LangGraph workflows
+- PyTorch model development
+- NumPy and data processing
+- Computer architecture simulation
+- HPC and parallel programming
+
+</td>
+</tr>
+</table>
+
+---
+
+## Languages and Tools
+
+<div align="center">
+
+### Core Languages
+
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,matlab&perline=6" alt="Core programming languages" />
+
+### Backend and Data
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,dotnet,nodejs,postgres,mysql,redis&perline=7" alt="Backend and database technologies" />
+
+### AI and Scientific Computing
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda&perline=4" alt="AI and scientific computing tools" />
+
+### Infrastructure and Development
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,postman&perline=7" alt="Infrastructure and development tools" />
+
+</div>
+
+---
+
+## Current Work
+
+```text
+
+Backend Engineering
+├── Java / Spring Boot services
+├── Python / FastAPI applications
+├── PostgreSQL and Redis integration
+└── Testing and containerized deployment
+
+AI Engineering
+├── Agent workflows
+├── Retrieval-augmented generation
+├── Tool calling and validation
+└── PyTorch evaluation pipelines
+```
+
+---
+
+## Developer Activity
+
+<div align="center">
+
+<a href="https://tokscale.ai/u/KaneYin">
+  <img src="https://tokscale.ai/api/embed/KaneYin/svg?view=3d" alt="Tokscale developer statistics" />
+</a>
+
+---
+
+## Connect with Me
+
+<div align="center">
+
+I am interested in open-source collaboration, backend engineering,  
+AI infrastructure, and computer architecture research.
+
+**[GitHub](https://github.com/KaneYin) · [LinkedIn](https://www.linkedin.com/in/yinkun/) · [Technical Blog](https://kaneyin.github.io/blog/) · [Email](mailto:yinkunq@gmail.com)**
+
+</div>
