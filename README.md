@@ -124,7 +124,7 @@ AI Engineering
   <img src="https://tokscale.ai/api/embed/KaneYin/svg?view=3d" alt="Tokscale developer statistics" />
 </a>
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KaneYin&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
 ---
 
