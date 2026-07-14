@@ -124,6 +124,8 @@ AI Engineering
   <img src="https://tokscale.ai/api/embed/KaneYin/svg?view=3d" alt="Tokscale developer statistics" />
 </a>
 
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
 ---
 
 ## Connect with Me
