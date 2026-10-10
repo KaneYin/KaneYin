@@ -30,13 +30,14 @@ building reliable backend systems, AI applications, and performance-oriented sof
 
 ## About Me
 
-- 🔭 Currently working on **computer architecture research and backend system design**
-- 🤖 Building **AI agents, RAG systems, and tool-enabled workflows**
-- 🧪 Improving software reliability through **unit testing and validation pipelines**
-- 🔬 Exploring **memory systems, prefetching, scheduling, and gem5 simulation**
-- 🌱 Currently strengthening my skills in **PyTorch, microservices, and open-source maintenance**
-- 🤝 Open to collaborating on **backend, AI infrastructure, developer tooling, and systems projects**
-- 💬 Ask me about **Java, Python, backend engineering, computer architecture, or neural networks**
+I'm a graduate in Electrical and Computer Engineering @ University of Illinois at Chicag, with a BS in Computer Science.
+
+My work focuses on:
+- AI Systems application: LLM agents, RAG, tool integration, and evaluation; as well as application on hardware
+- Software Engineering: Backend systems, APIs, and cloud infrastructure
+- Interests in Microarchitecture and HPC
+
+I enjoy building systems that connect AI research with practical software engineering.
 
 ---
 
